@@ -1,0 +1,20 @@
+{
+  "name": "dragon-slave",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tab4she/dragon-slave.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tab4she/dragon-slave/issues"
+  },
+  "homepage": "https://github.com/tab4she/dragon-slave#readme"
+}
